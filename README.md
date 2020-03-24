@@ -1,5 +1,5 @@
 # Todo-app
-Aplicação Todo-app usando react e redux
+Aplicação Todo-app usando React, Redux e MongoDB
 
 # tecnologias
 ## front-end
