@@ -21,7 +21,7 @@ Aplicação Todo-app usando React, Redux e MongoDB
 ## Execução
 - Instale o MongoDB
 - Execute o terminal e inicialize o MongoDB usando o comando "mongod"
-- Execute no terminal o comando "npm i" (isso irá baixar todas as dependências do arquivo package.json necessários para o projeto)
+- Abra no terminal as pastas frontend e backend e execute o comando "npm i" (isso irá baixar todas as dependências do arquivo package.json necessários para o projeto)
 - Abra a pasta front-end no terminal e execute o comando "npm run dev"
 - Abra a pasta back-end no terminal e execute o comando "npm run dev"
 - Certifique de que todas as dependências estão corretas
