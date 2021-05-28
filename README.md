@@ -1,8 +1,12 @@
-# Todo-app
-Aplicação Todo-app usando React, Redux e MongoDB
+## Sobre
+Aplicação com CRUD completos e alguns recursos a mais usando React, Redux e MongoDB
 
-# Tecnologias
-## Front-end
+## Pré-requisitos
+- NodeJs
+- MongoDB
+
+## Tecnologias
+### Front-end
 - React 15.4.2
 - Redux 3.6.0
 - Bootstrap 3.3.7
@@ -12,16 +16,16 @@ Aplicação Todo-app usando React, Redux e MongoDB
 - redux-trunk 2.2.0
 - webpack 1.14.0
 
-## Back-end
+### Back-end
 - MongoDB
 - express 4.14.0
 - mongoose 4.7.0
 - node-restful 0.2.5
 
 ## Execução
-- Instale o MongoDB
-- Execute o terminal e inicialize o MongoDB usando o comando "mongod" (não esqueça de configurar a variável de ambiente do mongo)
-- Abra no terminal as pastas frontend e backend e execute o comando "npm i" (isso irá baixar todas as dependências do arquivo package.json necessários para o projeto)
-- Abra a pasta front-end no terminal e execute o comando "npm run dev"
-- Abra a pasta back-end no terminal e execute o comando "npm run dev"
-- Certifique de que todas as dependências estão corretas
+
+Nas pastas front-end e back-end execute o comando:
+
+```
+npm install && npm run dev
+```
